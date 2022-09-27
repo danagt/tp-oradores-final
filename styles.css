@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-colornav {
+    background-color: #424243;
+}
+
+.img-container{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/ba1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    
+}
+.card-text1 {
+    margin: 50% 20% 0 0;
+    text-align: right;
+    justify-content: right;
+} 
+.card-text2 {
+    margin: 0 20% 0 0;
+    text-align: right;
+    justify-content: right;
+} 
+
+.d-grid{
+    float: right;
+    margin-right: 20%;
+    margin-top: 10px;
+}
+.btn-outline-secondary{
+    color: white;
+    border: 1px solid white;
+    
+}
+
+.card{
+    width: 350px;
+}
+.img-card{
+    max-width: 100%;
+    height: auto;
+}
+.lugar{
+    background-color: #424243;
+    color: white;
+}
+p.card-text{
+    font-size: 18px;
+}
+
+form{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.textarea{
+    font-size: 30px;
+}
+.form-label{
+    color: gray;
+}
+.btn-enviar{
+    background-color: #96C93E;
+    border: 1px solid #96C93E ;
+}
+
+.footer{
+    position:absolute;
+    width: 100%;
+    
+}
+.bg-footer {
+    background-color: #1e5170;
+    font-size: 20px;
+}
